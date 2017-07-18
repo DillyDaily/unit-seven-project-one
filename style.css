@@ -1,0 +1,51 @@
+h1 {
+  margin: 0px;
+}
+
+h2 {
+  margin: 0px;
+  font-family: 'Walter Turncoat', cursive;
+}
+
+h3 {
+    font-family: 'Walter Turncoat', cursive;
+}
+
+nav {
+  font-size: 14px;
+  font-family: 'Walter Turncoat', cursive;
+}
+
+header {
+  margin: 0px;
+  height: 525px;
+  background-image: url('hammer-photo-by-adam-sherez.jpg');
+  color: #393f3d;
+  font-family: 'Rock Salt', cursive;
+}
+
+main {
+  margin: 0px;
+  height: 675px;
+  background-color: #737f7b;
+  color: white;
+  font-family: 'Handlee', cursive;
+}
+
+footer {
+  margin: 0px;
+  height: 100px;
+  background-color: #ffd660;
+  color: #393f3d;
+  font-family: 'Walter Turncoat', cursive;
+}
+
+.wrapper {
+  width: 525px;
+  margin: auto;
+}
+
+#image {
+  line-height: 1.5em;
+  list-style-image: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/4621/treehouse-marker.png);
+}
