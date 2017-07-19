@@ -2,18 +2,26 @@ h1 {
   margin: 0px;
 }
 
-h2 {
+h2, h3 {
   margin: 0px;
   font-family: 'Walter Turncoat', cursive;
 }
 
-h3 {
-    font-family: 'Walter Turncoat', cursive;
+a {
+  font-family: 'Walter Turncoat', cursive;
 }
 
+a:link { color: #ffd660; }
+a:visited { color: blue; }
+a:hover { color: white; }
+a:active { color: grey; }
+
 nav {
-  font-size: 14px;
+  font-size: 18px;
   font-family: 'Walter Turncoat', cursive;
+  text-align: right;
+  text-transform: uppercase;
+  letter-spacing: 1px;
 }
 
 header {
