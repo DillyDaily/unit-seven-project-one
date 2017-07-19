@@ -1,6 +1,5 @@
 h1 {
   margin: 0px;
-  color: #ffd660;
 }
 
 h2 {
@@ -15,14 +14,13 @@ h3 {
 nav {
   font-size: 14px;
   font-family: 'Walter Turncoat', cursive;
-  color: #ffd660;
 }
 
 header {
   margin: 0px;
   height: 525px;
-  background-image: url('images/teal-painted-brick-background.jpg');
-  background-size: 80%auto;
+  background-image: url('images/white-pages.jpg');
+  color: #022129;
   font-family: 'Rock Salt', cursive;
 }
 
