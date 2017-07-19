@@ -20,7 +20,7 @@ header {
   margin: 0px;
   height: 525px;
   background-image: url('images/white-pages.jpg');
-  background-size: auto;
+  background-size: contain;
   color: #022129;
   font-family: 'Rock Salt', cursive;
 }
