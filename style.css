@@ -20,6 +20,7 @@ header {
   margin: 0px;
   height: 525px;
   background-image: url('images/white-pages.jpg');
+  background-size: auto;
   color: #022129;
   font-family: 'Rock Salt', cursive;
 }
@@ -47,5 +48,5 @@ footer {
 
 #image {
   line-height: 1.5em;
-  list-style-image: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/4621/treehouse-marker.png);
+  list-style-image: url('images/hammer.png');
 }
