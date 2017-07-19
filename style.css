@@ -20,6 +20,7 @@ header {
   margin: 0px;
   height: 525px;
   background-image: url('images/hammer-photo-by-adam-sherez.jpg');
+  background-size: 80px 60px;
   color: #393f3d;
   font-family: 'Rock Salt', cursive;
 }
