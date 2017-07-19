@@ -7,6 +7,7 @@ h2, h3 {
   font-family: 'Walter Turncoat', cursive;
 }
 
+/* styling links */
 a {
   font-family: 'Walter Turncoat', cursive;
 }
@@ -49,11 +50,13 @@ footer {
   font-family: 'Walter Turncoat', cursive;
 }
 
+/* playing with wrappers inside content containers*/
 .wrapper {
   width: 525px;
   margin: auto;
 }
 
+/* "bullets" for ul links at bottom of page */
 #image {
   line-height: 1.5em;
   list-style-image: url('images/hammer.png');
