@@ -1,5 +1,6 @@
 h1 {
   margin: 0px;
+  color: #ffd660;
 }
 
 h2 {
@@ -14,6 +15,7 @@ h3 {
 nav {
   font-size: 14px;
   font-family: 'Walter Turncoat', cursive;
+  color: #ffd660;
 }
 
 header {
@@ -21,7 +23,6 @@ header {
   height: 525px;
   background-image: url('images/hammer-photo-by-adam-sherez.jpg');
   background-size: 80%auto;
-  color: #ffd660;
   font-family: 'Rock Salt', cursive;
 }
 
