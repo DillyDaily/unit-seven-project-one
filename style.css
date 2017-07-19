@@ -12,9 +12,9 @@ a {
   font-family: 'Walter Turncoat', cursive;
 }
 
-a:link { color: #ffd660; }
+a:link { color: white; }
 a:visited { color: blue; }
-a:hover { color: white; }
+a:hover { color: black; }
 a:active { color: grey; }
 
 nav {
@@ -44,7 +44,7 @@ main {
 
 footer {
   margin: 0px;
-  height: 100px;
+  height: 130px;
   background-color: #ffd660;
   color: #393f3d;
   font-family: 'Walter Turncoat', cursive;
