@@ -30,7 +30,7 @@ header {
   height: 525px;
   background-image: url('images/ahansen-heart-light-blue.jpg');
   background-size: contain;
-  color: #022129;
+  color: #033947;
   font-family: 'Rock Salt', cursive;
 }
 
@@ -45,8 +45,8 @@ main {
 footer {
   margin: 0px;
   height: 130px;
-  background-color: #79a8a5;
-  color: #737f7b;
+  background-color: #92c7cd;
+  color: white;
   font-family: 'Walter Turncoat', cursive;
 }
 
